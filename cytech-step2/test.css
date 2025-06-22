@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+    background-color:blueviolet;
+}
+footer {
+    height:60px;
+    background-color: blue;
+}
+.content{
+    display: flex;
+}
+main {
+    height: 350px;
+    width: 30%;
+    background-color: aquamarine;
+}
+aside {
+    line-height: 25px;
+    height: 350px;
+    width: 90%;
+    background-color: pink;
+}
+body {
+    width:800px;
+}
+ul {
+    color: blue;
+}
